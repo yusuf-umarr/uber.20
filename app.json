@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "uber-new",
-    "slug": "uber-new",
+    "name": "uber2.0",
+    "slug": "uberPrototype",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "a prototype of uber app design by Yusuf"
   }
 }
