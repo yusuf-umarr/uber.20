@@ -10,7 +10,6 @@ import NavFavourites from '../components/NavFavourites';
 
 
 
-// import uber from './uber.png'
 const HomeScreen = () => {
     const dispatch = useDispatch()
     return (
